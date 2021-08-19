@@ -1,0 +1,23 @@
+{
+    "name": "bigfileupload",
+    "description": "大文件上传演示",
+    "version": "0.0.1",
+    "private": true,
+    "author": {
+        "name": "chuyuxuan",
+        "email": "chuyuxuan0v0@gmail.com"
+    },
+    "dependencies": {
+        "concat-files": "^0.1.1",
+        "express": "^4.15.2",
+        "formidable": "^1.0.15",
+        "fs-extra": "^5.0.0",
+        "opn": "^5.1.0"
+    },
+    "scripts": {
+        "start": "node index.js"
+    },
+    "engines": {
+        "node": ">=0.10.25"
+    }
+}
